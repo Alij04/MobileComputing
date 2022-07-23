@@ -8,7 +8,7 @@ public class EigthActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView();
+        setContentView(R.layout.eigthactivity);
 
     }
 }
